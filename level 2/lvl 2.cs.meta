@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b61baa831b0fe5940842e4f77f65a5a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - objekAngkaUI: {instanceID: 0}
+  - karakterSprite: {fileID: 2892504348718928910, guid: bd7268f1d86c34a499c1684f0472db33, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
